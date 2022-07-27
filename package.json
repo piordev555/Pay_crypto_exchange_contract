@@ -1,0 +1,26 @@
+{
+  "name": "danapay-smart-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cartezi/danapay-smart-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cartezi/danapay-smart-contracts/issues"
+  },
+  "homepage": "https://github.com/Cartezi/danapay-smart-contracts#readme",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.1.0"
+  }
+}
